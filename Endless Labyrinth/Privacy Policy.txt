@@ -1,0 +1,97 @@
+Privacy Policy
+
+Last Updated: August 2, 2026
+
+Welcome to 【Endless Labyrinth】 ("the App").
+
+The App is developed and published by 【BingBing Feng】.
+
+We respect your privacy and are committed to protecting your information.
+
+1. Information We Collect
+
+The App itself does not intentionally collect personally identifiable information such as your name or email address.
+
+However, third-party services integrated into the App may automatically collect:
+
+Device information
+Operating system version
+Advertising ID
+IP address
+Crash logs
+Usage statistics
+Advertising interaction data
+In-app purchase information for purchase verification
+2. How We Use Information
+
+Collected information may be used to:
+
+Display advertisements
+Improve advertising performance
+Verify in-app purchases
+Prevent fraud
+Analyze app performance
+Fix bugs
+Improve user experience
+3. Third-Party Services
+
+The App may use:
+
+Google AdMob
+Google Play Billing
+Google Play Services
+Google Firebase (if enabled)
+
+These services may collect and process information according to their own privacy policies.
+
+Google Privacy Policy:
+
+https://policies.google.com/privacy
+
+Google AdMob:
+
+https://support.google.com/admob
+
+4. Information Sharing
+
+We do not sell your personal information.
+
+Information may be processed by third-party service providers for advertising, purchase verification, analytics, and related services.
+
+5. Children's Privacy
+
+The App is not specifically directed to children under the age of 13.
+
+If you believe a child has provided personal information, please contact us.
+
+6. Data Security
+
+We take reasonable measures to protect your information, but no method of electronic transmission is completely secure.
+
+7. Your Rights
+
+Depending on your jurisdiction, you may have rights to:
+
+Access your data
+Correct your data
+Delete your data
+Withdraw consent
+Restrict processing
+
+Please contact us if you wish to exercise these rights.
+
+8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+The updated version will be published on this page.
+
+9. Contact
+
+Developer:
+
+【Developer Name】BingBing Feng
+
+Email:
+
+【Contact Email】beberexhaneverdown@gmail.com
